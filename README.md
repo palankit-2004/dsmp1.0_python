@@ -12,8 +12,8 @@ Each session builds upon the previous, covering topics in-depth with examples an
 | Session | Topic                      | Status |
 |--------:|----------------------------|--------|
 | 1       | Python Basics              | ✅ Done |
-| 2       | Conditions & Loops         | ✅ Done |
-| 3       | Functions                  | ✅ Done |
+| 2       | Conditions, Loops & Data Types         | ✅ Done |
+| 3       | Functions                  | 🚧 In Progress |
 | 4       | Object-Oriented Programming| 🚧 In Progress |
 | 5       | Recursion                  | ⏳ Upcoming |
 | 6       | Data Structures (Lists, etc.) | ⏳ Upcoming |

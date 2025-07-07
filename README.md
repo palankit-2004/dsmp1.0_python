@@ -17,6 +17,6 @@ To strengthen my core Python skills while building a revision-ready and intervie
 
 - View each `.ipynb` file in Jupyter/Colab
 - Try editing and running the code yourself
-- Use this repo to revise quickly before practicing DSA on platforms like LeetCode
+- Use this repo to revise quickly before practicing problems.
 
 ---

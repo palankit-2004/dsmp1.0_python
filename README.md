@@ -1,0 +1,2 @@
+Welcome to my repository of Python programming practice notebooks. These notebooks contain session-wise code practices and explanations created as part of my Data Science Mentorship Program.
+This repo serves as a hands-on record of everything I'm learning in Python — from the very basics to more advanced concepts — all geared toward building strong foundations for Data Science, Machine Learning, and beyond.

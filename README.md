@@ -7,19 +7,6 @@ Each session builds upon the previous, covering topics in-depth with examples an
 
 ---
 
-## 📚 Sessions Overview
-
-| Session | Topic                      | Status |
-|--------:|----------------------------|--------|
-| 1       | Python Basics              | ✅ Done |
-| 2       | Conditions, Loops & Data Types         | ✅ Done |
-| 3       | Functions                  | 🚧 In Progress |
-| 4       | Object-Oriented Programming| 🚧 In Progress |
-| 5       | Recursion                  | ⏳ Upcoming |
-| 6       | Data Structures (Lists, etc.) | ⏳ Upcoming |
-
----
-
 ## 🎯 Goal
 
 To strengthen my core Python skills while building a revision-ready and interview-friendly coding habit.
@@ -33,7 +20,3 @@ To strengthen my core Python skills while building a revision-ready and intervie
 - Use this repo to revise quickly before practicing DSA on platforms like LeetCode
 
 ---
-
-## 🚀 What’s Next?
-
-- ✅ Complete OOP exercises
